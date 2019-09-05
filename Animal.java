@@ -3,6 +3,10 @@ public class Animal {
 	}
 	
 	public void sayHello() {
-		System.out.println("Big Gay");
+		System.out.println("Bookie");
+}
+
+	public void sayGoodbye() {
+		System.out.println("Also Bookie");
 }
 }
